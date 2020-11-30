@@ -1,0 +1,6 @@
+Candle evaluator
+--> This should look at start price, open and close prices and determine whether candle is 
+bullish or bearish according to literiture.
+
+--> another idea is to split example "hourly" candle into minutes and determine according to 
+volume or number of trades what could net income be.

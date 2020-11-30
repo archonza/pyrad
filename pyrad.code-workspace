@@ -1,0 +1,31 @@
+{
+	"folders": [
+		{
+			"name": "doc",
+			"path": "./doc"
+		},
+		{
+			"name": "lib",
+			"path": "./lib"
+		},
+		{
+			"name": "app",
+			"path": "./app"
+		},
+		{
+			"name": "tst",
+			"path": "./tst"
+		},
+		{
+			"name": "sim",
+			"path": "./sim"
+		},
+		{
+			"name": "out",
+			"path": "./out"
+		}
+	],
+	"settings": {
+		"python.pythonPath": "C:\\Program Files\\Python39\\python.exe;${workspaceFolder}"
+	}
+}
